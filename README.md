@@ -9,5 +9,5 @@ Any IDE that supports Python3
 # Installing customtkinter
 In order to use the customtkinter library you must install it in your terminal
 <br> 
-pip install customtkiner 
+--> pip install customtkiner 
 
