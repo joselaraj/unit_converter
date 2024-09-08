@@ -7,7 +7,7 @@ After my Associates, I will be transferring to The university of illinois at Chi
 Any IDE that supports Python3
 
 # Installing customtkinter
-In order to use the customtkinter library you must install it in your terminal
+In order to use the customtkinter library you must install it in your terminal by doing the following in the terminal:
 <br> 
 --> pip install customtkiner 
 
